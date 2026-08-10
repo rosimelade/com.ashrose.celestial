@@ -1,11 +1,11 @@
 {
-  "name": "com.yiroth.libyiroth.celestial",
-  "displayName": "LibYiroth - Celestial",
+  "name": "com.ashrose.celestial",
+  "displayName": "Ashrose - Celestial",
   "author": {
-    "name": "yiroth"
+    "name": "rosimelade"
   },
-  "version": "0.0.1",
-  "unity": "6000.3",
-  "description": "LibYiroth, Celestial",
+  "version": "0.0.2",
+  "unity": "6000.5",
+  "description": "Ashrose, Celestial",
   "relatedPackages": {}
 }
