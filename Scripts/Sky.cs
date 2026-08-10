@@ -1,5 +1,5 @@
 /*
- * Copyright 2025 yiroth
+ * Copyright 2025 Ashrose
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -20,7 +20,7 @@ using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace LibYiroth.Celestial
+namespace Ashrose.Celestial
 {
     public class Sky : MonoBehaviour
     {
