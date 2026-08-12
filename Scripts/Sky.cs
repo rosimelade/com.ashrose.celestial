@@ -43,8 +43,8 @@ namespace Ashrose.Celestial
         
         public bool shouldUpdateVisuals = true;
         public bool shouldUpdateTime = true;
-        public Helper.ETimeRate visualUpdateRate = Helper.ETimeRate.TimeRateFPS30;
-        public Helper.ETimeRate timeUpdateRate = Helper.ETimeRate.TimeRateFPS30;
+        public Helper.CommonTimeRates visualUpdateRate = Helper.CommonTimeRates.TimeRateFPS30;
+        public Helper.CommonTimeRates timeUpdateRate = Helper.CommonTimeRates.TimeRateFPS30;
         public float realtimeMinutesPerCycle = 120.0f;
 
         private Data.Date _date;
